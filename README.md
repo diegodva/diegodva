@@ -1,11 +1,12 @@
 ## Olá eu sou o Diego Araujo!
 
-<div>
+<div style="display:flex"><br>
     <a href="http://githhub.com/diegodva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodva&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodva&layout=compact&langs_count=16&theme=dracula&"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegodva&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodva&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-<div style="display: inline_block"><br>
+<div style="display:block">
   <img align="center" alt="Diego-Python" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-Go" height="30" width="40"
@@ -30,7 +31,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
   
-  ##
+##
  
 <div> 
     <a href = "mailto:diego.dias.venancio@gmail.com">
