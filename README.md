@@ -2,8 +2,8 @@
 
 <div style="display:flex"><br>
     <a href="http://githhub.com/diegodva">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegodva&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodva&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diegodva&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodva&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display:block">
